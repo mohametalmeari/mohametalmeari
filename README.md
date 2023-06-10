@@ -3,5 +3,5 @@
  <br/>
 - 🌱 I'm currently learning Pair Programming in Microverse <br/>
 - 👯 I'm looking to new opportunities to work remotely as a full stack developer <br/>
-- 💬 Ask me about Bootstrap <br/>
+- 💬 Ask me about React <br/>
 - 📫 How to reach me: mohamet.almeari@gmail.com <br/>
